@@ -3,6 +3,10 @@
   src: url(fonts/royal-street-extralight.otf)
 }
 
+html, body {
+  margin: 0;
+}
+
 h1 {
   font-family: sunflower;
 }
