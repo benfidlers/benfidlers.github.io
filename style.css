@@ -7,9 +7,14 @@ html, body {
   margin: 0;
 }
 
+.container {
+  padding: 5vw;
+}
+
 .header {
   font-family: sunflower;
   font-size:8vw;
+  margin:0
 }
 
 .full-image {
