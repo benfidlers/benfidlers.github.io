@@ -7,9 +7,9 @@ html, body {
   margin: 0;
 }
 
-h1 {
+.header {
   font-family: sunflower;
-  font-size:10vw;
+  font-size:8vw;
 }
 
 .full-image {
