@@ -6,3 +6,8 @@
 h1 {
   font-family: sunflower;
 }
+
+.full-image {
+  max-width: 100%;
+  height: auto;
+}
